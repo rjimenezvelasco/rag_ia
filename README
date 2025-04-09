@@ -1,3 +1,10 @@
 # script example to resume pdf files using Ollama
 # python 3.7.9
+# pip install PyPDF2 requests
 # Ollama Mistral
+# ollama run mistral
+# pip install fastapi uvicorn python-multipart PyMuPDF requests
+
+# Para ejecutar main.py 
+# uvicorn main:app --reload
+
